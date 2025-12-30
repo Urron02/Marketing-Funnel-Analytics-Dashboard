@@ -13,7 +13,8 @@ Marketing channel data (Organic, Paid, Email, Referral)
 Device type and regional segmentation
 Revenue and order value information
 Data was cleaned, transformed, and modeled using SQL and Power BI to ensure accuracy and consistency.
--Dataset - <a href="https://github.com/Urron02/Marketing-Funnel-Analytics-Dashboard/blob/main/funnel_analysis_data.csv">
+
+-Dataset - <a href="https://github.com/Urron02/Marketing-Funnel-Analytics-Dashboard/blob/main/funnel_analysis_data.csv"> View Dataset
 
 # Key Questions (KPIs)📌
 
