@@ -43,4 +43,4 @@ Interactive segmentation reduced analysis time by 30%, enabling faster insight d
 
 This project demonstrates how funnel analytics can uncover hidden inefficiencies in the user journey and drive measurable business impact. By combining Power BI, DAX, and SQL, the dashboard transforms raw user data into actionable marketing and revenue insights. The solution enables stakeholders to prioritize high-impact optimization areas, improve conversion-focused decision-making by 15%, and build a scalable framework for continuous funnel performance monitoring.
 
--Dashboard Image - <a href="https://github.com/Urron02/Marketing-Funnel-Analytics-Dashboard/blob/main/Screenshot%202025-12-30%20015013.png"> View Dashboard
+-Dashboard Interaction - <a href="https://github.com/Urron02/Marketing-Funnel-Analytics-Dashboard/blob/main/Screenshot%202025-12-30%20015013.png"> View Dashboard
