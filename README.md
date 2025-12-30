@@ -1,2 +1,4 @@
-# Marketing-Funnel-Analytics-Dashboard
-Developed an end-to-end user funnel analytics dashboard analyzing 10,000+ users, identifying key conversion drop-offs (10.8% conversion rate; 89.2% leakage). Improved data accuracy by 20% and reduced analysis time by 30% using interactive Power BI visuals and slicers.
+#Marketing Funnel Analytics Dashboard
+##Project Objective
+
+The objective of this project is to analyze user behavior across the marketing funnel and identify key conversion and drop-off points that impact business performance. The dashboard aims to provide actionable insights into user journey efficiency, channel effectiveness, and revenue contribution to support data-driven marketing and growth strategies.
